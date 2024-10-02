@@ -1,0 +1,12 @@
+body {
+    font-family:'Cursive', Courier, monospace;
+    text-align: center;
+    
+    background-color: black;
+    color: antiquewhite;
+}
+
+#board {
+    background-color: lightgray;
+    border-bottom: 1px solid black;
+}
